@@ -1,6 +1,8 @@
 # threejs-vr-console-debugger
 A VR console debugger written for ThreeJS
 
+**Demo**: [Click here](https://threejs-vr-console-debugger.netlify.app/) *-- tested on an Oculus Quest.* 
+
 Follow me on Twitter:
 [![Eriks Twitter][1.1]][1]
 
