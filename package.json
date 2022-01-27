@@ -32,7 +32,7 @@
     "rollup-plugin-strip-code": "^0.2.7",
     "rollup-plugin-terser": "^5.1.1",
     "stats-js": "^1.0.1",
-    "three": "^0.116.1"
+    "three": "^0.137.0"
   },
   "devDependencies": {}
 }
